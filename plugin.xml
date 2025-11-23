@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
+        id="com.ashera.cordova"
+        version="1.0">
+
+  <name>AsheraCordovaPlugin</name>
+
+  <engines>
+    <engine name="cordova" version=">=3.4.0"/>
+  </engines>
+  
+  <platform name="android">
+    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
+    <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
+    <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
+    <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
+    <dependency url="https://github.com/AsheraCordova/CapInsets.git" id="com.ashera.capinsets" />
+    <dependency url="https://github.com/AsheraCordova/CardView.git" id="com.ashera.cardview" />
+    <dependency url="https://github.com/AsheraCordova/Chip.git" id="com.ashera.chip" />
+    <dependency url="https://github.com/AsheraCordova/ConstraintLayout.git" id="com.ashera.constraintlayout" />
+    <dependency url="https://github.com/AsheraCordova/CoordinatorLayout.git" id="com.ashera.coordinatorlayout" />
+    <dependency url="https://github.com/AsheraCordova/CustomWidgetExtension.git" id="com.ashera.customwidgetextension" />
+    <dependency url="https://github.com/AsheraCordova/DateTime.git" id="com.ashera.datetime" />
+    <dependency url="https://github.com/AsheraCordova/Dialog.git" id="com.filfatstudios.spinnerdialog" />
+    <dependency url="https://github.com/AsheraCordova/Drawer.git" id="com.ashera.drawerlayout" />
+    <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
+    <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
+    <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
+    <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
+    <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
+    <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
+    <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
+    <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
+    <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
+    <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
+    <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
+    <dependency url="https://github.com/AsheraCordova/ViewPager.git" id="com.ashera.viewpager" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera-swt.git" id="cordova-plugin-camera-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera.git" id="cordova-plugin-camera" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner-swt.git" id="cordova-plugin-qrscanner-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner.git" id="cordova-plugin-qrscanner" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-sqlite-2-swt.git" id="cordova-plugin-sqlite-2-swt" />
+    
+  </platform>
+  <platform name="browser">
+    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
+    <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
+    <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
+    <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
+    <dependency url="https://github.com/AsheraCordova/CapInsets.git" id="com.ashera.capinsets" />
+    <dependency url="https://github.com/AsheraCordova/CardView.git" id="com.ashera.cardview" />
+    <dependency url="https://github.com/AsheraCordova/Chip.git" id="com.ashera.chip" />
+    <dependency url="https://github.com/AsheraCordova/ConstraintLayout.git" id="com.ashera.constraintlayout" />
+    <dependency url="https://github.com/AsheraCordova/CoordinatorLayout.git" id="com.ashera.coordinatorlayout" />
+    <dependency url="https://github.com/AsheraCordova/CustomWidgetExtension.git" id="com.ashera.customwidgetextension" />
+    <dependency url="https://github.com/AsheraCordova/DateTime.git" id="com.ashera.datetime" />
+    <dependency url="https://github.com/AsheraCordova/Dialog.git" id="com.filfatstudios.spinnerdialog" />
+    <dependency url="https://github.com/AsheraCordova/Drawer.git" id="com.ashera.drawerlayout" />
+    <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
+    <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
+    <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
+    <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
+    <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
+    <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
+    <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
+    <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
+    <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
+    <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
+    <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
+    <dependency url="https://github.com/AsheraCordova/ViewPager.git" id="com.ashera.viewpager" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera-swt.git" id="cordova-plugin-camera-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera.git" id="cordova-plugin-camera" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner-swt.git" id="cordova-plugin-qrscanner-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner.git" id="cordova-plugin-qrscanner" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-sqlite-2-swt.git" id="cordova-plugin-sqlite-2-swt" />
+    
+  </platform>
+  <platform name="ios">
+    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
+    <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
+    <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
+    <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
+    <dependency url="https://github.com/AsheraCordova/CapInsets.git" id="com.ashera.capinsets" />
+    <dependency url="https://github.com/AsheraCordova/CardView.git" id="com.ashera.cardview" />
+    <dependency url="https://github.com/AsheraCordova/Chip.git" id="com.ashera.chip" />
+    <dependency url="https://github.com/AsheraCordova/ConstraintLayout.git" id="com.ashera.constraintlayout" />
+    <dependency url="https://github.com/AsheraCordova/CoordinatorLayout.git" id="com.ashera.coordinatorlayout" />
+    <dependency url="https://github.com/AsheraCordova/CustomWidgetExtension.git" id="com.ashera.customwidgetextension" />
+    <dependency url="https://github.com/AsheraCordova/DateTime.git" id="com.ashera.datetime" />
+    <dependency url="https://github.com/AsheraCordova/Dialog.git" id="com.filfatstudios.spinnerdialog" />
+    <dependency url="https://github.com/AsheraCordova/Drawer.git" id="com.ashera.drawerlayout" />
+    <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
+    <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
+    <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
+    <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
+    <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
+    <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
+    <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
+    <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
+    <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
+    <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
+    <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
+    <dependency url="https://github.com/AsheraCordova/ViewPager.git" id="com.ashera.viewpager" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera-swt.git" id="cordova-plugin-camera-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera.git" id="cordova-plugin-camera" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner-swt.git" id="cordova-plugin-qrscanner-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner.git" id="cordova-plugin-qrscanner" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-sqlite-2-swt.git" id="cordova-plugin-sqlite-2-swt" />
+    
+  </platform>
+  <platform name="swt">
+    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
+    <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
+    <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
+    <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
+    <dependency url="https://github.com/AsheraCordova/CapInsets.git" id="com.ashera.capinsets" />
+    <dependency url="https://github.com/AsheraCordova/CardView.git" id="com.ashera.cardview" />
+    <dependency url="https://github.com/AsheraCordova/Chip.git" id="com.ashera.chip" />
+    <dependency url="https://github.com/AsheraCordova/ConstraintLayout.git" id="com.ashera.constraintlayout" />
+    <dependency url="https://github.com/AsheraCordova/CoordinatorLayout.git" id="com.ashera.coordinatorlayout" />
+    <dependency url="https://github.com/AsheraCordova/CustomWidgetExtension.git" id="com.ashera.customwidgetextension" />
+    <dependency url="https://github.com/AsheraCordova/DateTime.git" id="com.ashera.datetime" />
+    <dependency url="https://github.com/AsheraCordova/Dialog.git" id="com.filfatstudios.spinnerdialog" />
+    <dependency url="https://github.com/AsheraCordova/Drawer.git" id="com.ashera.drawerlayout" />
+    <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
+    <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
+    <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
+    <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
+    <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
+    <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
+    <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
+    <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
+    <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
+    <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
+    <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
+    <dependency url="https://github.com/AsheraCordova/ViewPager.git" id="com.ashera.viewpager" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera-swt.git" id="cordova-plugin-camera-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-camera.git" id="cordova-plugin-camera" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner-swt.git" id="cordova-plugin-qrscanner-swt" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-qrscanner.git" id="cordova-plugin-qrscanner" />
+    <dependency url="https://github.com/AsheraCordova/cordova-plugin-sqlite-2-swt.git" id="cordova-plugin-sqlite-2-swt" />
+    
+  </platform>
+</plugin>

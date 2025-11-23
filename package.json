@@ -1,0 +1,7 @@
+{
+  "name": "com.ashera.cordova",
+  "version": "1.0.0",
+  "description": "Plugin to install all plugins related related to Ashera",
+  "author": "Ram M",
+  "license": "Apache-2.0"
+}
