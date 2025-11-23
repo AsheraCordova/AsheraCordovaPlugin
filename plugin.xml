@@ -32,7 +32,6 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
-    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
@@ -70,7 +69,6 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
-    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
@@ -108,7 +106,6 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
-    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
@@ -146,7 +143,6 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
-    <dependency url="https://github.com/AsheraCordova/SWTSwitch.git" id="com.ashera.myswitch.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
