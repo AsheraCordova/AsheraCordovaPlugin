@@ -10,7 +10,7 @@
   </engines>
   
   <platform name="android">
-    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
@@ -47,7 +47,7 @@
     
   </platform>
   <platform name="browser">
-    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
@@ -84,7 +84,7 @@
     
   </platform>
   <platform name="ios">
-    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
@@ -121,7 +121,7 @@
     
   </platform>
   <platform name="swt">
-    <dependency url="https://github.com/AsheraCordova/AsheraCore.git" id="com.ashera.core" />
+    <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.7" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
