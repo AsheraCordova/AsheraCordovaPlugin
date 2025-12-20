@@ -12,6 +12,7 @@
   <platform name="android">
     <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.6" />
+    <dependency url="https://github.com/AsheraCordova/ActionSheet.git" id="com.ashera.actionsheet" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
     <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
@@ -49,6 +50,7 @@
   <platform name="browser">
     <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.6" />
+    <dependency url="https://github.com/AsheraCordova/ActionSheet.git" id="com.ashera.actionsheet" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
     <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
@@ -86,6 +88,7 @@
   <platform name="ios">
     <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.6" />
+    <dependency url="https://github.com/AsheraCordova/ActionSheet.git" id="com.ashera.actionsheet" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
     <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
@@ -123,6 +126,7 @@
   <platform name="swt">
     <dependency url="https://github.com/AsheraCordova/Core.git" id="com.ashera.core" />
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.6" />
+    <dependency url="https://github.com/AsheraCordova/ActionSheet.git" id="com.ashera.actionsheet" />
     <dependency url="https://github.com/AsheraCordova/AppBarLayout.git" id="com.ashera.appbarlayout" />
     <dependency url="https://github.com/AsheraCordova/BrowserDialogs.git" id="cordova-plugin-dialogs-ashera" />
     <dependency url="https://github.com/AsheraCordova/CSSBorder.git" id="com.ashera.cssborder" />
