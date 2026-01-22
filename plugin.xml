@@ -36,6 +36,7 @@
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
     <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
     <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
@@ -74,6 +75,7 @@
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
     <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
     <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
@@ -112,6 +114,7 @@
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
     <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
     <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
@@ -150,6 +153,7 @@
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
+    <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
     <dependency url="https://github.com/AsheraCordova/TextInputLayout.git" id="com.ashera.textinputlayout" />
     <dependency url="https://github.com/AsheraCordova/Toolbar.git" id="com.ashera.toolbar" />
