@@ -33,8 +33,10 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSpatialKit.git" id="com.ashera.spatialkit.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/SpatialKit.git" id="com.ashera.spatialkit" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
     <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
@@ -72,8 +74,10 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSpatialKit.git" id="com.ashera.spatialkit.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/SpatialKit.git" id="com.ashera.spatialkit" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
     <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
@@ -111,8 +115,10 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSpatialKit.git" id="com.ashera.spatialkit.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/SpatialKit.git" id="com.ashera.spatialkit" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
     <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
@@ -150,8 +156,10 @@
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
     <dependency url="https://github.com/AsheraCordova/RecycleView.git" id="com.ashera.recycleview" />
     <dependency url="https://github.com/AsheraCordova/SDWebImagePlugin.git" id="com.ashera.sdwebimage.ios" />
+    <dependency url="https://github.com/AsheraCordova/SWTSpatialKit.git" id="com.ashera.spatialkit.swt" />
     <dependency url="https://github.com/AsheraCordova/ShutterBug.git" id="com.ashera.shutterbug" />
     <dependency url="https://github.com/AsheraCordova/Snackbar.git" id="com.ashera.snackbar" />
+    <dependency url="https://github.com/AsheraCordova/SpatialKit.git" id="com.ashera.spatialkit" />
     <dependency url="https://github.com/AsheraCordova/Splash.git" id="cordova-plugin-splashscreen-ashera" />
     <dependency url="https://github.com/AsheraCordova/SwipeRefresh.git" id="com.ashera.swiperefreshlayout" />
     <dependency url="https://github.com/AsheraCordova/TabLayout.git" id="com.ashera.tablayout" />
