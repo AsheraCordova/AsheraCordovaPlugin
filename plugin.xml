@@ -28,6 +28,7 @@
     <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
     <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
     <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/ImageHotspot.git" id="com.ashera.imagehotspot" />
     <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
     <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
@@ -69,6 +70,7 @@
     <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
     <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
     <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/ImageHotspot.git" id="com.ashera.imagehotspot" />
     <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
     <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
@@ -110,6 +112,7 @@
     <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
     <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
     <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/ImageHotspot.git" id="com.ashera.imagehotspot" />
     <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
     <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
@@ -151,6 +154,7 @@
     <dependency url="https://github.com/AsheraCordova/Glide.git" id="com.ashera.glide" />
     <dependency url="https://github.com/AsheraCordova/GridLayout.git" id="com.ashera.gridlayout" />
     <dependency url="https://github.com/AsheraCordova/IQkeyboardManager.git" id="com.ashera.iqkeyboardmanager.ios" />
+    <dependency url="https://github.com/AsheraCordova/ImageHotspot.git" id="com.ashera.imagehotspot" />
     <dependency url="https://github.com/AsheraCordova/NavigationView.git" id="com.ashera.navigationview" />
     <dependency url="https://github.com/AsheraCordova/NestedScrollView.git" id="com.ashera.nestedscrollview" />
     <dependency url="https://github.com/AsheraCordova/Picasso.git" id="com.ashera.picasso" />
